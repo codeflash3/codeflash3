@@ -16,8 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **joshi.s.0708@gmail.com**
 
-- ⚡ Fun fact **Think Think Think...**
-
     <img src="https://komarev.com/ghpvc/?username=codeflash3" width=160px/>
 
 <h3 align="left">Connect with me:</h3>
