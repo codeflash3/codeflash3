@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shripadjoshi78/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif" alt="Saurabh's linkdin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/shripadjoshi78/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif" alt="Shripad's linkdin" height="50" width="50" /></a>
 
 <table>
     <tr>
