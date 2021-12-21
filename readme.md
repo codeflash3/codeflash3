@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shripadjoshi78/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif" alt="Shripad's linkdin" height="50" width="50" /></a>
+    <br/>
+    <br/>
 
 ### Languages and Tools:
 <div>
