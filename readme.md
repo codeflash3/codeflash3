@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54509629/135729677-82e1d8b4-5179-4d50-b428-c0413e23d1f2.gif" alt="Shripad" width=400px/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54509629/135729677-82e1d8b4-5179-4d50-b428-c0413e23d1f2.gif" alt="Shripad" width=200px/></p>
 
