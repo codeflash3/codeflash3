@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on Flutter Projects.
 
-- 👨‍💻 Linkdin Profile: [https://www.linkedin.com/in/shripadjoshi78](www.linkedin.com/in/shripadjoshi78)
-
 - 📫 How to reach me **joshi.s.0708@gmail.com**
 
     <img src="https://komarev.com/ghpvc/?username=codeflash3" width=160px/>
