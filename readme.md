@@ -43,12 +43,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
     
-<!-- <table>
+<table>
     <tr>
         <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeflash3&show_icons=true&theme=radical" alt="Shripad's github stats" /> </td>
         <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeflash3&layout=compact&theme=radical" alt="Shripad" /> </td>
     </tr>
-</table> -->
+</table>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54509629/135729677-82e1d8b4-5179-4d50-b428-c0413e23d1f2.gif" alt="Shripad" width=200px/></p>
 
